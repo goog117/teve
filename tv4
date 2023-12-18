@@ -17,29 +17,6 @@ http://91.126.182.211:9981/stream/channelid/403421735?profile=pass
 http://181.119.66.30:8000/play/03/index.m3u8
 #EXTINF:-1,ESPN EXTRA HD 🇦🇷
 http://181.119.66.30:8000/play/a002/index.m3u8
-#EXTINF:-1,ELEVEN SPORTS 1 HD 🇵🇱
-http://51.89.67.79:25461/stalker348574985793/stalker348574985793/79
-#EXTINF:-1,ELEVEN SPORTS 2 HD 🇵🇱
-http://51.89.67.79:25461/stalker348574985793/stalker348574985793/80
-#EXTINF:-1,ELEVEN SPORTS 3 HD 🇵🇱
-http://51.89.67.79:25461/stalker348574985793/stalker348574985793/81
-#EXTINF:-1,ELEVEN SPORTS 4 HD 🇵🇱
-http://51.89.67.79:25461/stalker348574985793/stalker348574985793/82
-#EXTINF:-1,GOLDEN MULTIPLEX -1HR 
-https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
-https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
-#EXTINF:-1,GOLDEN PLUS
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:-1,GOLDEN PREMIER
-https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-#EXTINF:-1,EVENTOS TyC PLAY 1
-https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
-#EXTINF:-1,EVENTOS TyC PLAY 2
-https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
-#EXTINF:-1,EVENTOS TyC PLAY 3
-https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
-#EXTINF:-1,EVENTOS TyC PLAY 4
-https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
 #EXTINF:-1,Gol Peru
 https://v3.playerlatino.live/stream/m3u8/686
 #EXTINF:-1,Gol TV
