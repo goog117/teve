@@ -27,4 +27,9 @@ https://v3.playerlatino.live/stream/m3u8/841
 https://run-ra-es.otteravision.com/run/ra_es/ra_es.m3u8
 #EXTINF:-1,XTREMA CINE TERROR
 https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
-
+#EXTINF:-1,EC | DSPORTS HD
+http://nxt.plus:8080/jesus01/jesus01/116425
+#EXTINF:-1,CL | DSPORTS 2 HD
+http://nxt.plus:8080/jesus01/jesus01/68829
+#EXTINF:-1,CL | DSPORTS+ HD
+http://nxt.plus:8080/jesus01/jesus01/68830
