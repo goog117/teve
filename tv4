@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:-1,ESPN
-http://181.78.8.90:16123/play/ch16
-#EXTINF:-1,ESPN2
-http://181.78.8.90:16123/play/ch17
-#EXTINF:-1,ESPN3 
-http://181.78.8.90:16123/play/ch18
-#EXTINF:-1,ESPN4 
-http://181.78.8.90:16123/play/ch19 
-#EXTINF:-1,FOX SPORTS 2 
-http://181.78.8.90:16123/play/ch20 
-#EXTINF:-1,FOX SPORTS 3 
-http://181.78.8.90:16123/play/ch21
-#EXTINF:-1,M+ LaLigaTV 🇪🇸
-http://91.126.182.211:9981/stream/channelid/403421735?profile=pass
-#EXTINF:-1,ESPN 2 HD 🇦🇷
-http://181.119.66.30:8000/play/03/index.m3u8
-#EXTINF:-1,ESPN EXTRA HD 🇦🇷
-http://181.119.66.30:8000/play/a002/index.m3u8
 #EXTINF:-1,Gol Peru
 https://v3.playerlatino.live/stream/m3u8/686
 #EXTINF:-1,Gol TV
