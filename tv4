@@ -13,3 +13,7 @@ http://181.78.8.90:16123/play/ch20
 http://181.78.8.90:16123/play/ch21 
 #EXTINF:-1,SPORTS 
 http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1,DirectTV Sports
+https://v3.playerlatino.live/stream/m3u8/259
+#EXTINF:-1,DirectTV Sports 2
+https://v3.playerlatino.live/stream/m3u8/667
