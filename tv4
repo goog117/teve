@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1,ESPN
 http://181.78.8.90:16123/play/ch16
 #EXTINF:-1,ESPN2
@@ -10,34 +11,34 @@ http://181.78.8.90:16123/play/ch19
 http://181.78.8.90:16123/play/ch20 
 #EXTINF:-1,FOX SPORTS 3 
 http://181.78.8.90:16123/play/ch21
-#EXTINF:-1, M+ LaLigaTV 🇪🇸
+#EXTINF:-1,M+ LaLigaTV 🇪🇸
 http://91.126.182.211:9981/stream/channelid/403421735?profile=pass
 #EXTINF:-1,ESPN 2 HD 🇦🇷
 http://181.119.66.30:8000/play/03/index.m3u8
 #EXTINF:-1,ESPN EXTRA HD 🇦🇷
 http://181.119.66.30:8000/play/a002/index.m3u8
-#EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇱
+#EXTINF:-1,ELEVEN SPORTS 1 HD 🇵🇱
 http://51.89.67.79:25461/stalker348574985793/stalker348574985793/79
-#EXTINF:-1, ELEVEN SPORTS 2 HD 🇵🇱
+#EXTINF:-1,ELEVEN SPORTS 2 HD 🇵🇱
 http://51.89.67.79:25461/stalker348574985793/stalker348574985793/80
-#EXTINF:-1, ELEVEN SPORTS 3 HD 🇵🇱
+#EXTINF:-1,ELEVEN SPORTS 3 HD 🇵🇱
 http://51.89.67.79:25461/stalker348574985793/stalker348574985793/81
-#EXTINF:-1, ELEVEN SPORTS 4 HD 🇵🇱
+#EXTINF:-1,ELEVEN SPORTS 4 HD 🇵🇱
 http://51.89.67.79:25461/stalker348574985793/stalker348574985793/82
-#EXTINF:-1 group-title="Bics", GOLDEN MULTIPLEX -1HR 
+#EXTINF:-1,GOLDEN MULTIPLEX -1HR 
 https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
 https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", GOLDEN PLUS
+#EXTINF:-1,GOLDEN PLUS
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", GOLDEN PREMIER
+#EXTINF:-1,GOLDEN PREMIER
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="RokuTV", EVENTOS TyC PLAY 1
+#EXTINF:-1,EVENTOS TyC PLAY 1
 https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
-#EXTINF:-1 group-title="RokuTV", EVENTOS TyC PLAY 2
+#EXTINF:-1,EVENTOS TyC PLAY 2
 https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
-#EXTINF:-1 group-title="RokuTV", EVENTOS TyC PLAY 3
+#EXTINF:-1,EVENTOS TyC PLAY 3
 https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
-#EXTINF:-1 group-title="RokuTV", EVENTOS TyC PLAY 4
+#EXTINF:-1,EVENTOS TyC PLAY 4
 https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
 #EXTINF:-1 group-title="RokuTV", EVENTOS TyC PLAY 5
 https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
@@ -225,9 +226,9 @@ https://v3.playerlatino.live/stream/m3u8/192
 https://v3.playerlatino.live/stream/m3u8/750
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/star_life.png" group-title="Entretenimiento",Fox Life Sur
 https://v3.playerlatino.live/stream/m3u8/746
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes",Fox Sports
+#EXTINF:-1,Fox Sports
 https://v3.playerlatino.live/stream/m3u8/52
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes",Fox Sports 2
+#EXTINF:-1,Fox Sports 2
 https://v3.playerlatino.live/stream/m3u8/53
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes",Fox Sports 2 MX
 https://v3.playerlatino.live/stream/m3u8/528
@@ -253,11 +254,11 @@ https://v3.playerlatino.live/stream/m3u8/749
 https://v3.playerlatino.live/stream/m3u8/43
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/glitz.png" group-title="Entretenimiento",Glitz
 https://v3.playerlatino.live/stream/m3u8/158
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/golperu.png" group-title="Deportes",Gol Peru
+#EXTINF:-1,Gol Peru
 https://v3.playerlatino.live/stream/m3u8/686
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/goltv.png" group-title="Deportes",Gol TV
+#EXTINF:-1,Gol TV
 https://v3.playerlatino.live/stream/m3u8/287
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/goltv.png" group-title="Deportes",Gol TV OP2
+#EXTINF:-1,Gol TV OP2
 https://v3.playerlatino.live/stream/m3u8/514
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/golden.png" group-title="Peliculas",Golden
 https://v3.playerlatino.live/stream/m3u8/57
@@ -267,23 +268,23 @@ https://v3.playerlatino.live/stream/m3u8/58
 https://v3.playerlatino.live/stream/m3u8/61
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura",H2 Sur
 https://v3.playerlatino.live/stream/m3u8/760
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas",HBO
+#EXTINF:-1,HBO
 https://v3.playerlatino.live/stream/m3u8/62
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas",HBO (EN)
+#EXTINF:-1,HBO (EN)
 https://v3.playerlatino.live/stream/m3u8/723
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Peliculas",HBO 2
+#EXTINF:-1,HBO 2
 https://v3.playerlatino.live/stream/m3u8/300
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Peliculas",HBO 2 (EN)
+#EXTINF:-1,HBO 2 (EN)
 https://v3.playerlatino.live/stream/m3u8/724
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="Peliculas",HBO Family
+#EXTINF:-1,HBO Family
 https://v3.playerlatino.live/stream/m3u8/63
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="Peliculas",HBO Plus
+#EXTINF:-1,HBO Plus
 https://v3.playerlatino.live/stream/m3u8/64
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="Peliculas",HBO Plus (EN)
+#EXTINF:-1,HBO Plus (EN)
 https://v3.playerlatino.live/stream/m3u8/722
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="Peliculas",HBO Xtreme
+#EXTINF:-1,HBO Xtreme
 https://v3.playerlatino.live/stream/m3u8/814
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="Peliculas",HBO Xtreme
+#EXTINF:-1,HBO Xtreme
 https://v3.playerlatino.live/stream/m3u8/841
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/history.png" group-title="España",Historia (ES)
 https://v3.playerlatino.live/stream/m3u8/718
