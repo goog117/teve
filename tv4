@@ -1,28 +1,6 @@
 #EXTM3U
-#EXTINF:-1,Gol Peru
-https://v3.playerlatino.live/stream/m3u8/686
-#EXTINF:-1,Gol TV
-https://v3.playerlatino.live/stream/m3u8/287
-#EXTINF:-1,Gol TV OP2
-https://v3.playerlatino.live/stream/m3u8/514
-#EXTINF:-1,HBO
-https://v3.playerlatino.live/stream/m3u8/62
-#EXTINF:-1,HBO (EN)
-https://v3.playerlatino.live/stream/m3u8/723
-#EXTINF:-1,HBO 2
-https://v3.playerlatino.live/stream/m3u8/300
-#EXTINF:-1,HBO 2 (EN)
-https://v3.playerlatino.live/stream/m3u8/724
-#EXTINF:-1,HBO Family
-https://v3.playerlatino.live/stream/m3u8/63
-#EXTINF:-1,HBO Plus
-https://v3.playerlatino.live/stream/m3u8/64
-#EXTINF:-1,HBO Plus (EN)
-https://v3.playerlatino.live/stream/m3u8/722
-#EXTINF:-1,HBO Xtreme
-https://v3.playerlatino.live/stream/m3u8/814
-#EXTINF:-1,HBO Xtreme
-https://v3.playerlatino.live/stream/m3u8/841
+#EXTINF:-1,TNT Novelas
+http://181.78.22.70:8000/play/a05p/index.m3u8
 #EXTINF:-1,RUN:TIME ACCIÓN
 https://run-ra-es.otteravision.com/run/ra_es/ra_es.m3u8
 #EXTINF:-1,XTREMA CINE TERROR
