@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1,RUN:TIME ACCIÓN
-https://run-ra-es.otteravision.com/run/ra_es/ra_es.m3u8
-#EXTINF:-1,XTREMA CINE TERROR
-https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
 #EXTINF:-1,TNT Novelas HD
-http://177.53.153.225:8000/play/a04c/index.m3u8
+http://177.53.153.20:8001/play/a04c/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s.png",A&E HD
 http://177.53.153.20:8001/play/a01s/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a039.png",AMC HD
