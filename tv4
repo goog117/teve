@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,TNT Novelas HD
-http://177.53.153.20:8001/play/a04c/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s.png",A&E HD
 http://177.53.153.20:8001/play/a01s/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a039.png",AMC HD
