@@ -113,6 +113,8 @@ http://38.56.118.88:4000/play/a00c/index.m3u8
 http://38.56.118.88:4000/play/a06p/index.m3u8
 #EXTINF:-1,HBO XTREME HD
 http://38.56.118.88:4000/play/a03g/index.m3u8
+#EXTINF:-1,HBO PLUS HD
+http://45.70.237.221:8000/play/a0oa/index.m3u8
 #EXTINF:-1,HOLA TV HD
 http://38.56.118.88:4000/play/a00q/index.m3u8
 #EXTINF:-1,HTV
