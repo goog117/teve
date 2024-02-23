@@ -6,7 +6,7 @@ http://38.56.118.88:4000/play/a027/index.m3u8
 #EXTINF:-1,ATRES SERIES HD
 http://38.56.118.88:4000/play/a00w/index.m3u8
 #EXTINF:-1,ATV
-http://38.56.118.88:25461/play/a03q/index.m3u8
+http://38.56.118.88:443/play/a03q/index.m3u8
 #EXTINF:-1,AXN HD
 http://38.56.118.88:4000/play/a008/index.m3u8
 #EXTINF:-1,Adult Swim HD
@@ -16,7 +16,7 @@ http://38.56.118.88:4000/play/a02u/index.m3u8
 #EXTINF:-1,Animal Planet HD
 http://38.56.118.88:4000/play/a02i/index.m3u8
 #EXTINF:-1,Antena 3
-http://38.56.118.88:25461/play/a07i/index.m3u8
+http://38.56.118.88:443/play/a07i/index.m3u8
 #EXTINF:-1,BBC World
 http://38.56.118.88:25461/play/a06l/index.m3u8
 #EXTINF:-1,CHV HD
