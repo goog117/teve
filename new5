@@ -1,80 +1,80 @@
 #EXTM3U
 #EXTINF:-1, emme_intv1
-http://209.45.101.38:7500/play/a0fw/index.m3u8
+http://209.45.101.38:7500/play/a0fw
 #EXTINF:-1, emme_irdeto canales
-http://209.45.101.38:7500/play/a0fm/index.m3u8
+http://209.45.101.38:7500/play/a0fm
 #EXTINF:-1, emme_update-2
-http://209.45.101.38:7500/play/a0fy/index.m3u8
+http://209.45.101.38:7500/play/a0fy
 #EXTINF:-1, emme_update-3
-http://209.45.101.38:7500/play/a0fu/index.m3u8
+http://209.45.101.38:7500/play/a0fu
 #EXTINF:-1,26TV
-http://209.45.101.38:7500/play/a0a0/index.m3u8
+http://209.45.101.38:7500/play/a0a0
 #EXTINF:-1,A&E HD
-http://209.45.101.38:7500/play/a09s/index.m3u8
+http://209.45.101.38:7500/play/a09s
 #EXTINF:-1,A&E HD udate_2
-http://209.45.101.38:7500/play/a0f3/index.m3u8
+http://209.45.101.38:7500/play/a0f3
 #EXTINF:-1,A&E HD udate_3
-http://209.45.101.38:7500/play/a0f7/index.m3u8
+http://209.45.101.38:7500/play/a0f7
 #EXTINF:-1,Adult Swim HD
 http://38.56.118.88:4000/play/a010/index.m3u8
 #EXTINF:-1,A24
-http://209.45.101.38:7500/play/a09x/index.m3u8
+http://209.45.101.38:7500/play/a09x
 #EXTINF:-1,AM Sports
-http://209.45.101.38:7500/play/a0a4/index.m3u8
+http://209.45.101.38:7500/play/a0a4
 #EXTINF:-1,AMC
-http://209.45.101.38:7500/play/a0a8/index.m3u8
+http://209.45.101.38:7500/play/a0a8
 #EXTINF:-1,AMERICA IRD
-http://209.45.101.38:7500/play/a0g3/index.m3u8
+http://209.45.101.38:7500/play/a0g3
 #EXTINF:-1,ATV SUR
-http://209.45.101.38:7500/play/a0hg/index.m3u8
+http://209.45.101.38:7500/play/a0hg
 #EXTINF:-1,ATV-ATV mas IRD
-http://209.45.101.38:7500/play/a0hj/index.m3u8
+http://209.45.101.38:7500/play/a0hj
 #EXTINF:-1,AXN HD
-http://209.45.101.38:7500/play/a09p/index.m3u8
+http://209.45.101.38:7500/play/a09p
 #EXTINF:-1,AXN HD udate_2
-http://209.45.101.38:7500/play/a0f1/index.m3u8
+http://209.45.101.38:7500/play/a0f1
 #EXTINF:-1,AXN HD udate_3
-http://209.45.101.38:7500/play/a0f9/index.m3u8
+http://209.45.101.38:7500/play/a0f9
 #EXTINF:-1,America TV HD
-http://209.45.101.38:7500/play/a09f/index.m3u8
+http://209.45.101.38:7500/play/a09f
 #EXTINF:-1,America TV HD udate_2
-http://209.45.101.38:7500/play/a0f2/index.m3u8
+http://209.45.101.38:7500/play/a0f2
 #EXTINF:-1,America TV HD update_3
-http://209.45.101.38:7500/play/a0f8/index.m3u8
+http://209.45.101.38:7500/play/a0f8
 #EXTINF:-1,America TV Internacional
-http://209.45.101.38:7500/play/a0ga/index.m3u8
+http://209.45.101.38:7500/play/a0ga
 #EXTINF:-1,Animal Planet
-http://209.45.101.38:7500/play/a0gh/index.m3u8
+http://209.45.101.38:7500/play/a0gh
 #EXTINF:-1,Animal Planet HD
-http://209.45.101.38:7500/play/a0gr/index.m3u8
+http://209.45.101.38:7500/play/a0gr
 #EXTINF:-1,Baby TV
-http://209.45.101.38:7500/play/a0ct/index.m3u8
+http://209.45.101.38:7500/play/a0ct
 #EXTINF:-1,C5N
-http://209.45.101.38:7500/play/a09y/index.m3u8
+http://209.45.101.38:7500/play/a09y
 #EXTINF:-1,CANAL PUNO
-http://209.45.101.38:7500/play/a0e9/index.m3u8
+http://209.45.101.38:7500/play/a0e9
 #EXTINF:-1,CNN Internacional
-http://209.45.101.38:7500/play/a0gi/index.m3u8
+http://209.45.101.38:7500/play/a0gi
 #EXTINF:-1,CNN en Espaæol
-http://209.45.101.38:7500/play/a09e/index.m3u8
+http://209.45.101.38:7500/play/a09e
 #EXTINF:-1,Canal 10 HD
-http://209.45.101.38:7500/play/a0gt/index.m3u8
+http://209.45.101.38:7500/play/a0gt
 #EXTINF:-1,Canal 13 HD Internacional
-http://209.45.101.38:7500/play/a0gy/index.m3u8
+http://209.45.101.38:7500/play/a0gy
 #EXTINF:-1,Canal 5
-http://209.45.101.38:7500/play/a0gb/index.m3u8
+http://209.45.101.38:7500/play/a0gb
 #EXTINF:-1,Canal 9 HD Internacional
-http://209.45.101.38:7500/play/a0gz/index.m3u8
+http://209.45.101.38:7500/play/a0gz
 #EXTINF:-1,Canal Vasco
-http://209.45.101.38:7500/play/a0gm/index.m3u8
+http://209.45.101.38:7500/play/a0gm
 #EXTINF:-1,Canal de la Ciudad
-http://209.45.101.38:7500/play/a0b6/index.m3u8
+http://209.45.101.38:7500/play/a0b6
 #EXTINF:-1,Cartoon Network HD
-http://209.45.101.38:7500/play/a0bq/index.m3u8
+http://209.45.101.38:7500/play/a0bq
 #EXTINF:-1,Cartoonito
-http://209.45.101.38:7500/play/a0gf/index.m3u8
+http://209.45.101.38:7500/play/a0gf
 #EXTINF:-1,Cine.AR
-http://209.45.101.38:7500/play/a0aa/index.m3u8
+http://209.45.101.38:7500/play/a0aa
 #EXTINF:-1,Cinecanal HD
 http://209.45.101.38:7500/play/a0bx
 #EXTINF:-1,Cinemax
