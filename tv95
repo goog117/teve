@@ -6,7 +6,7 @@ http://38.56.118.88:4000/play/a027/index.m3u8
 #EXTINF:-1,ATRES SERIES HD
 http://38.56.118.88:4000/play/a00w/index.m3u8
 #EXTINF:-1,ATV
-http://38.56.118.88:4000/play/a03q/index.m3u8
+http://38.56.118.88:25461/play/a03q/index.m3u8
 #EXTINF:-1,AXN HD
 http://38.56.118.88:4000/play/a008/index.m3u8
 #EXTINF:-1,Adult Swim HD
@@ -16,21 +16,21 @@ http://38.56.118.88:4000/play/a02u/index.m3u8
 #EXTINF:-1,Animal Planet HD
 http://38.56.118.88:4000/play/a02i/index.m3u8
 #EXTINF:-1,Antena 3
-http://38.56.118.88:4000/play/a07i/index.m3u8
+http://38.56.118.88:25461/play/a07i/index.m3u8
 #EXTINF:-1,BBC World
-http://38.56.118.88:4000/play/a06l/index.m3u8
+http://38.56.118.88:25461/play/a06l/index.m3u8
 #EXTINF:-1,CHV HD
 http://38.56.118.88:4000/play/a00n/index.m3u8
 #EXTINF:-1,CNN Chile HD
 http://38.56.118.88:4000/play/a003/index.m3u8
 #EXTINF:-1,CNN Espaæol
-http://38.56.118.88:4000/play/a06k/index.m3u8
+http://38.56.118.88:25461/play/a06k/index.m3u8
 #EXTINF:-1,CNN International
-http://38.56.118.88:4000/play/a06m/index.m3u8
+http://38.56.118.88:25461/play/a06m/index.m3u8
 #EXTINF:-1,Canal 13 HD
 http://38.56.118.88:4000/play/a030/index.m3u8
 #EXTINF:-1,Canal N
-http://38.56.118.88:8000/play/a03p/index.m3u8
+http://38.56.118.88:25461/play/a03p/index.m3u8
 #EXTINF:-1,Cartoon Network HD
 http://38.56.118.88:4000/play/a02b/index.m3u8
 #EXTINF:-1,Cinecanal HD
@@ -90,7 +90,7 @@ http://38.56.118.88:4000/play/a03d/index.m3u8
 #EXTINF:-1,Fox Sports 3 HD
 http://38.56.118.88:4000/play/a00t/index.m3u8
 #EXTINF:-1,GLOBAL
-http://38.56.118.88:4000/play/a03r/index.m3u8
+http://38.56.118.88:25461/play/a03r/index.m3u8
 #EXTINF:-1,GOLPERU HD
 http://38.56.118.88:4000/play/a02x/index.m3u8
 #EXTINF:-1,GolTV HD
@@ -106,13 +106,13 @@ http://38.56.118.88:4000/play/a03f/index.m3u8
 #EXTINF:-1,HBO HD
 http://168.181.122.234:8000/play/a02o/index.m3u8
 #EXTINF:-1,HBO HD 2
-http://177.128.113.8:4000/play/a08w
+http://177.128.113.8:25461/play/a08w
 #EXTINF:-1,HBO MUNDI
-http://38.56.118.88:4000/play/a06h/index.m3u8
+http://38.56.118.88:25461/play/a06h/index.m3u8
 #EXTINF:-1,HBO POP HD
-http://38.56.118.88:4000/play/a00c/index.m3u8
+http://38.56.118.88:25461/play/a00c/index.m3u8
 #EXTINF:-1,HBO Signature
-http://38.56.118.88:4000/play/a06p/index.m3u8
+http://38.56.118.88:25461/play/a06p/index.m3u8
 #EXTINF:-1,HBO XTREME HD
 http://38.56.118.88:4000/play/a03g/index.m3u8
 #EXTINF:-1,HBO PLUS HD
